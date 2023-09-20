@@ -1,0 +1,50 @@
+body
+{
+padding-left: 160px;
+color: purple;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(189, 203, 30);
+}
+
+.navbar{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    top: 20px;
+    left: 10px;
+    width: 100px;
+}
+
+li{
+    background-color: white;
+    border-right: 15px solid black;
+    padding: 5px;
+    margin: 10px 0;
+
+
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: purple;
+}
+
+h1
+{
+    font-family: Cambria;
+}
+
+address{
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: thin dotted;
+}
